@@ -1,0 +1,1 @@
+This is a simple python script to resize a gif using Pillow
